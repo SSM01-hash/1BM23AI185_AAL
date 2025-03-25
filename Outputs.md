@@ -14,7 +14,7 @@ Pattern Matching
 ![image](https://github.com/user-attachments/assets/af8c63bd-827c-49a1-ab16-bbc09002c6da)
 
 Selection Sort
-![image](https://github.com/user-attachments/assets/4fce8bf3-1f32-455b-b7ef-280ce5996412)
+![image](https://github.com/user-attachments/assets/b86e8934-694f-42c1-b235-47137324a875)
 
 Quick Sort
 ![image](https://github.com/user-attachments/assets/78311899-7724-4f2d-be77-f2dc4b576b1c)
