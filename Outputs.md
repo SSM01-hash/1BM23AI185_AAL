@@ -15,3 +15,6 @@ Pattern Matching
 
 Selection Sort
 ![image](https://github.com/user-attachments/assets/4fce8bf3-1f32-455b-b7ef-280ce5996412)
+
+Quick Sort
+![image](https://github.com/user-attachments/assets/78311899-7724-4f2d-be77-f2dc4b576b1c)
