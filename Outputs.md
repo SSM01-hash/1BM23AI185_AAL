@@ -11,7 +11,7 @@ Binary Search with Bubble Sort
 ![image](https://github.com/user-attachments/assets/819a8697-f943-4b72-8e22-acfac6bf5e73)
 
 Pattern Matching
-![image](https://github.com/user-attachments/assets/0da056d0-fe84-411f-a96f-521c95d2020e)
+![image](https://github.com/user-attachments/assets/af8c63bd-827c-49a1-ab16-bbc09002c6da)
 
 Selection Sort
 ![image](https://github.com/user-attachments/assets/4fce8bf3-1f32-455b-b7ef-280ce5996412)
