@@ -19,6 +19,6 @@ Selection Sort
 Quick Sort
 ![image](https://github.com/user-attachments/assets/78311899-7724-4f2d-be77-f2dc4b576b1c)
 
-Merge sort
+Merge Sort
 ![image](https://github.com/user-attachments/assets/2d4db290-887a-4174-8487-75b52638adbe)
 
