@@ -25,5 +25,5 @@ Merge Sort
 Prim's Algorithm
 ![image](https://github.com/user-attachments/assets/266e57da-2cf0-425a-a530-b42fa7acc24a)
 
-Kruskel's Algorithm
+Kruskal's Algorithm
 ![image](https://github.com/user-attachments/assets/177afac5-db1e-4c14-b2d2-8cd1f6f6b9b6)
