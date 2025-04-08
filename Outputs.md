@@ -22,3 +22,7 @@ Quick Sort
 Merge Sort
 ![image](https://github.com/user-attachments/assets/2d4db290-887a-4174-8487-75b52638adbe)
 
+Prim's Algorithm
+![image](https://github.com/user-attachments/assets/266e57da-2cf0-425a-a530-b42fa7acc24a)
+
+Kruskel's Algorithm
