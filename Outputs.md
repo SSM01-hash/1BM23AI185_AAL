@@ -30,3 +30,6 @@ Kruskal's Algorithm
 
 Insertion Sort
 ![image](https://github.com/user-attachments/assets/79d29a9f-e634-46ec-bfbd-3a69700560cd)
+
+Dijkstra's Algorithm
+![image](https://github.com/user-attachments/assets/bef3efa3-f5d5-4ab4-9983-d986849b556e)
