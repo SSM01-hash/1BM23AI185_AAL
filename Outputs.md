@@ -27,3 +27,6 @@ Prim's Algorithm
 
 Kruskal's Algorithm
 ![image](https://github.com/user-attachments/assets/177afac5-db1e-4c14-b2d2-8cd1f6f6b9b6)
+
+Insertion Sort
+![image](https://github.com/user-attachments/assets/79d29a9f-e634-46ec-bfbd-3a69700560cd)
