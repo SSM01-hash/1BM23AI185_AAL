@@ -33,3 +33,7 @@ Insertion Sort
 
 Dijkstra's Algorithm
 ![image](https://github.com/user-attachments/assets/bef3efa3-f5d5-4ab4-9983-d986849b556e)
+
+Topological Sort (Using DFS)
+![image](https://github.com/user-attachments/assets/ff8d5979-0004-479f-84a1-d40d7d4ce913)
+
