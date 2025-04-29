@@ -37,3 +37,5 @@ Dijkstra's Algorithm
 Topological Sort (Using DFS)
 ![image](https://github.com/user-attachments/assets/ff8d5979-0004-479f-84a1-d40d7d4ce913)
 
+Heap Sort
+![image](https://github.com/user-attachments/assets/b0b75df2-ac4c-4c05-bd13-874f9562e912)
