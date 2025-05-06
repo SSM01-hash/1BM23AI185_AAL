@@ -43,5 +43,5 @@ Heap Sort
 N Queens
 ![image](https://github.com/user-attachments/assets/3504fcc2-9c30-41dc-a2cc-26bf5b39fc70)
 
-TSP
+Travelling Salesperson
 ![image](https://github.com/user-attachments/assets/87b205c8-bb7a-4398-a3fa-8de6cd491fc3)
