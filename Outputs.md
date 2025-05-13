@@ -40,6 +40,9 @@ Topological Sort (Using DFS)
 Heap Sort
 ![image](https://github.com/user-attachments/assets/b0b75df2-ac4c-4c05-bd13-874f9562e912)
 
+Floyd's Algorithm
+![image](https://github.com/user-attachments/assets/1b8fa576-fbd8-4e14-bc17-9e7e6d5fffba)
+
 N Queens
 ![image](https://github.com/user-attachments/assets/3504fcc2-9c30-41dc-a2cc-26bf5b39fc70)
 
